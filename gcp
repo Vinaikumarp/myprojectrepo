@@ -1,0 +1,4 @@
+and analyze structured, semi-structured, and unstructured data.Core Data ServicesBigQuery:
+A fully managed, serverless enterprise data warehouse for fast SQL queries and multi-engine analytics powered by AI.
+Cloud Storage: Object storage with classes like Standard, Nearline, Coldline, and Archive for raw files and data lakes.
+Databases: Managed transactional storage options including Cloud SQL (MySQL, PostgreSQL, SQL Server), Cloud Spanner, and Cloud Bigtable.
