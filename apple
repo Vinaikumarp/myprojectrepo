@@ -1,5 +1,8 @@
 This is apple file now i am committing from main branch.
+<<<<<<< HEAD
 This is apple file now i am committing from main branch.
+=======
+>>>>>>> b9795e0 (Add AWS and cloud computing resources to apple)
 Learn
 What Is AWS?
 What Is Cloud Computing?
