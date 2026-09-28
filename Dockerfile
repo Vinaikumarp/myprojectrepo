@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:alpine
 MAINTAINER vinaypk
 LABEL This is my docker task from trainer
 EXPOSE 80
